@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    padding: 10px;
+    background-color: blue;
+}
+.menubar a{
+    text-decoration: none;
+    font-size: 24px;
+    padding: 0 10px 0 0;
+    width: 100%;
+    color: black;
+    
+}
+.menubar{
+    width: 100%;
+    background-color: purple;
+    padding: 10px;
+
+}
+.menubar a:hover{
+    color: wheat;
+}
+#footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    font-size: 24px;
+    background-color: gray;
+    text-align: center;
+
+}
+#LandDescription{
+    padding: 10px;
+}
+img{
+    width: 700px;
+    height: 480px;
+}
